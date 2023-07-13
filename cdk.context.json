@@ -1,0 +1,16 @@
+{
+  "glue_job_name": "normalize-address-glue",
+  "data_bucket_name": "id-res-validation",
+  "dataset_path_prefix": "sample-data",
+  "dataset_file_name": "customer-sample.csv",
+  "glue_job_script": "normalize-address.py",
+  "schedule_daily_hour": "3",
+  "glue_database_name": "idresolution-validation",
+  "glue_table_name": "customer-sample",
+  "timedelta_days": "1",
+  "databrew_job_name": "normalize-address-databrew-job",
+  "databrew_recipe_file_name": "normalize-data-recipe.json",
+  "kms_key_alias": "dev/ideres-kms-key",
+  "data_bucket_exist_flag": "n",
+  "cli_profile": "cleanroom1"
+}

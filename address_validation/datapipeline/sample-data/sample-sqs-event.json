@@ -1,0 +1,20 @@
+{
+    "Records": [
+        {
+            "messageId": "fb38149e-95b5-4b66-846c-4a92951c03b7",
+            "receiptHandle": "AQEBl+HSHNIqWzGXllRJkuxonhPF7hpeOJCd2z8+R29WUQaiUr8Ecn3z2gdzj750qwX9bJipHekWplO/SU2pYkSq6L0futiFdxjaSqcrFY+wTUYslCWxjzf2gnXNBhkMECEj/9wjY/wNvThRt1Fz0SSvhEer297hpUzsg8N48nJDLucB2EBCMynJ0PstBTtlxeR7QPDiWRUmeNUmkMRrouyaVICrc+h2XEIAr2WZ8US3wkzpg7Q30l/yLQ5Wn6mScghXhp0/7fzfEXe1piDUj/vUz+RRTxxuuGZX8N2Dsg1RLECBQqchk1hn1dwciiK2UXQIiBOhUvvyBJFxnwdZNAfjgC1cIPa46BpWLI0jhHxXPIvt5Owt/mx1hr9dPvRTlfwhZ/1RiUuLz80tFeDo6i2LeQ==",
+            "body": "[{\"source_id\": \"bd530c1554874f1eadb2315ae8a9f3d1\", \"last_name\": \"Davis\", \"first_name\": \"Andrea\", \"middle_initial\": NaN, \"suffix_name\": NaN, \"zip_code\": 87284, \"country\": \"UNITED STATES\", \"country_code\": \"US\", \"address1\": \"7027 Samuel Lights Apt. 308\", \"address2\": NaN, \"address3\": NaN, \"address4\": NaN, \"city\": \"South Christopherside\", \"state_code\": \"Kansas\", \"state_name\": \"OH\", \"email_address\": \"jamie87@example.net\", \"continent\": \"NORTH AMERICA\", \"name_prefix\": NaN, \"phone_nbr\": \"883.320.5019x8778\", \"phone_ext\": NaN, \"phone_type\": \"HOME\"}, {\"source_id\": \"d1e5ce41759e4378b9b117879c4096df\", \"last_name\": \"Adams\", \"first_name\": \"David\", \"middle_initial\": NaN, \"suffix_name\": NaN, \"zip_code\": 64720, \"country\": \"UNITED STATES\", \"country_code\": \"US\", \"address1\": \"9667 Holly Flat Apt. 998\", \"address2\": NaN, \"address3\": NaN, \"address4\": NaN, \"city\": \"Cindyland\", \"state_code\": \"North Carolina\", \"state_name\": \"IN\", \"email_address\": \"jonesgina@example.org\", \"continent\": \"NORTH AMERICA\", \"name_prefix\": NaN, \"phone_nbr\": \"065-668-6338x4961\", \"phone_ext\": NaN, \"phone_type\": \"HOME\"}]",
+            "attributes": {
+                "ApproximateReceiveCount": "1",
+                "SentTimestamp": "1685123449186",
+                "SenderId": "AROAUPRF2AVSRXVL64QKV:GlueJobRunnerSession",
+                "ApproximateFirstReceiveTimestamp": "1685123449187"
+            },
+            "messageAttributes": {},
+            "md5OfBody": "9d03e86562a85c04a91d112044fcf92f",
+            "eventSource": "aws:sqs",
+            "eventSourceARN": "arn:aws:sqs:us-west-2:xxxxxxxxxxxx:smarty-addr-val-request",
+            "awsRegion": "us-west-2"
+        }
+    ]
+}

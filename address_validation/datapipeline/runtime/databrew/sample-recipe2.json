@@ -1,0 +1,51 @@
+[
+  {
+    "Action": {
+      "Operation": "GROUP_BY",
+      "Parameters": {
+        "groupByAggFunctionOptions": "[{\"sourceColumnName\":\"ss_net_paid\",\"targetColumnName\":\"ss_net_paid_sum\",\"functionName\":\"SUM\",\"targetColumnDataType\":\"double\"}]",
+        "sourceColumns": "[\"c_customer_id\",\"c_first_name\",\"c_last_name\",\"c_birth_day\",\"c_birth_month\",\"c_birth_year\",\"c_email_address\"]",
+        "useNewDataFrame": "true"
+      }
+    }
+  },
+  {
+    "Action": {
+      "Operation": "REMOVE_VALUES",
+      "Parameters": {
+        "sourceColumn": "ss_net_paid_sum"
+      }
+    },
+    "ConditionExpressions": [
+      {
+        "Condition": "LESS_THAN",
+        "Value": "10000",
+        "TargetColumn": "ss_net_paid_sum"
+      }
+    ]
+  },
+  {
+    "Action": {
+      "Operation": "LOWER_CASE",
+      "Parameters": {
+        "sourceColumn": "c_first_name"
+      }
+    }
+  },
+  {
+    "Action": {
+      "Operation": "LOWER_CASE",
+      "Parameters": {
+        "sourceColumn": "c_last_name"
+      }
+    }
+  },
+  {
+    "Action": {
+      "Operation": "LOWER_CASE",
+      "Parameters": {
+        "sourceColumn": "c_email_address"
+      }
+    }
+  }
+]

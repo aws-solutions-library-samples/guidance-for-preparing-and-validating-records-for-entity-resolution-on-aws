@@ -1,0 +1,2 @@
+urllib3==1.26.15
+smartystreets-python-sdk==4.11.16

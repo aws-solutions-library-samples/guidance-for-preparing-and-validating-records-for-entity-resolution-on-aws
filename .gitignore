@@ -1,0 +1,13 @@
+.venv
+.DS_Store
+.ipynb_checkpoints
+data
+helpers/__pycache__
+bandit*.out
+aerospikestack
+mysqlstack
+cdk.out
+address_validation/datapipeline/deployment-packages/
+address_validation/datapipeline/runtime/_lambda/__pycache__
+address_validation/datapipeline/runtime/_lambda/util/__pycache__
+__pycache__

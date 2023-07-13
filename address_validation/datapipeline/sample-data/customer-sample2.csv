@@ -1,0 +1,51 @@
+c_row_number,c_customer_id,ss_net_paid,c_prefix,c_first_name,c_last_name,c_preferred_flag,c_birth_day,c_birth_month,c_birth_year,c_country,c_email_address
+1,AAAAAAAABAAAAAAA,32946,Mr.,Javier,Lewis,Y,9,12,1936,CHILE,Javier.Lewis@VFAxlnZEvOx.org
+2,AAAAAAAACAAAAAAA,31655,Dr.,Amy,Moses,Y,9,4,1966,TOGO,Amy.Moses@Ovk9KjHH.com
+3,AAAAAAAADAAAAAAA,48572,Miss,Latisha,Hamilton,N,18,9,1979,NIUE,Latisha.Hamilton@V.com
+4,AAAAAAAAEAAAAAAA,39558,Dr.,Michael,White,N,7,6,1983,MEXICO,Michael.White@i.org
+5,AAAAAAAAFAAAAAAA,36368,Sir,Robert,Moran,N,8,5,1956,FIJI,Robert.Moran@Hh.edu
+6,AAAAAAAAGAAAAAAA,27082,Ms.,Brunilda,Sharp,N,4,12,1925,SURINAME,Brunilda.Sharp@T3pylZEUQjm.org
+7,AAAAAAAAHAAAAAAA,44814,Ms.,Fonda,Wiles,Y,24,4,1985,GAMBIA,Fonda.Wiles@S9KnyEtz9hv.org
+8,AAAAAAAAIAAAAAAA,16598,Sir,Ollie,Shipman,N,26,12,1938,"KOREA, REPUBLIC OF",Ollie.Shipman@be.org
+9,AAAAAAAAJAAAAAAA,49388,Sir,Karl,Gilbert,N,26,10,1966,MONTSERRAT,Karl.Gilbert@Crg5KyP2IxX9C4d6.edu
+10,AAAAAAAAKAAAAAAA,19580,Ms.,Albert,Brunson,N,15,10,1973,JORDAN,Albert.Brunson@62.com
+11,AAAAAAAALAAAAAAA,47999,Ms.,Betty,Williams,N,18,12,1963,BURKINA FASO,Betty.Williams@xRtDqM1eLBVQNoYAJ.com
+12,AAAAAAAAMAAAAAAA,47366,Ms.,Margaret,Farias,N,2,6,1956,TURKMENISTAN,Margaret.Farias@cb.edu
+13,AAAAAAAANAAAAAAA,14006,Mrs.,Rosalinda,Grimes,N,1,3,1970,UKRAINE,Rosalinda.Grimes@tC8pcU7Lt.edu
+14,AAAAAAAAOAAAAAAA,6440,Mr.,Jack,Wilcox,N,30,3,1937,SLOVENIA,Jack.Wilcox@Y3Etqyv3.org
+15,AAAAAAAAPAAAAAAA,30469,Ms.,Tonya,Rosalinda,,1,12,1969,,asdfsdf@ttryret.com
+16,AAAAAAAAABAAAAAA,29302,Dr.,Margie,Browning,N,24,12,1933,PHILIPPINES,Margie.Browning@LM674NrE2.org
+17,AAAAAAAABBAAAAAA,2228,Dr.,Lee,Stovall,N,23,12,1972,PHILIPPINES,Lee.Stovall@fqKC83UU0f.org
+18,AAAAAAAACBAAAAAA,18456,Sir,Brad,Lynch,Y,1,9,1950,URUGUAY,Brad.Lynch@nAbai.edu
+19,AAAAAAAADBAAAAAA,45581,Dr.,Andre,Moore,N,20,10,1978,NICARAGUA,Andre.Moore@cTZLGYi1ZJi.org
+20,AAAAAAAAEBAAAAAA,38966,Mr.,Stanton,Dallas,Y,17,5,1976,SWITZERLAND,Stanton.Dallas@DBXgl18FGo.edu
+21,AAAAAAAAFBAAAAAA,25979,Miss,Naomi,Barnett,N,18,5,1956,BAHAMAS,Naomi.Barnett@2T3V3OZOy4KBNAHsT.edu
+22,AAAAAAAAGBAAAAAA,40467,Sir,Victor,Martinez,N,21,12,1991,CAYMAN ISLANDS,Victor.Martinez@fC.edu
+23,AAAAAAAAHBAAAAAA,686,Sir,Luna,Garrison,N,1,5,1960,,Earl.Garrison@G3sM4P.com
+24,AAAAAAAAIBAAAAAA,14291,Dr.,Paul,Morris,Y,6,6,1951,GUINEA-BISSAU,Paul.Morris@FMGalegqc3.com
+25,AAAAAAAAJBAAAAAA,25933,Miss,Nancy,Mccormick,N,6,10,1973,BAHAMAS,Nancy.Mccormick@DA26I9ZArLF9rxJ6Z.edu
+26,AAAAAAAAKBAAAAAA,28206,Ms.,Monique,Baker,N,14,6,1991,MOROCCO,Monique.Baker@9uEucNczY.org
+27,AAAAAAAALBAAAAAA,16096,Dr.,Shawn,Prather,N,7,3,1972,PUERTO RICO,Shawn.Prather@8BusRYegn6.org
+28,AAAAAAAAMBAAAAAA,33480,Miss,Edith,Hernandez,Y,17,8,1959,CÔTE D'IVOIRE,Edith.Hernandez@BNHL0k.com
+29,AAAAAAAANBAAAAAA,44139,Ms.,Margaret,Collins,Y,25,8,1973,NETHERLANDS ANTILLES,Margaret.Collins@9obPr3UV.org
+30,AAAAAAAAOBAAAAAA,45459,Dr.,Pamela,Luna,Y,4,7,1956,GUAM,Pamela.Luna@QBGuhL36lnA.edu
+31,AAAAAAAAPBAAAAAA,7128,Dr.,William,Craig,N,13,6,1964,SPAIN,William.Craig@prVDE1E8AHc.org
+32,AAAAAAAAACAAAAAA,48290,Dr.,Kenneth,Wood,N,2,8,1927,"MOLDOVA, REPUBLIC OF",Kenneth.Wood@RIA.edu
+33,AAAAAAAABCAAAAAA,32438,Mrs.,Donna,Betts,Y,25,3,1958,FRANCE,Donna.Betts@YJ14k.edu
+34,AAAAAAAACCAAAAAA,37501,,Carlson,Woods,,1,1,1990,,Brandon.Woods@hjKbf.edu
+35,AAAAAAAADCAAAAAA,32231,Dr.,Marie,Peterson,N,19,6,1953,KIRIBATI,Marie.Peterson@1zg9tydFHafA5.com
+36,AAAAAAAAECAAAAAA,26585,Dr.,Anthony,Fisher,N,29,11,1968,KYRGYZSTAN,Anthony.Fisher@jJrZfeDcz8P.com
+37,AAAAAAAAFCAAAAAA,12943,Dr.,Dwight,Schneider,Y,9,1,1949,RUSSIAN FEDERATION,Dwight.Schneider@koxO7zAysvOd.com
+38,AAAAAAAAGCAAAAAA,36360,Mrs.,Ha,Carpenter,Y,30,3,1939,PARAGUAY,Ha.Carpenter@XgcUt4svNz.com
+39,AAAAAAAAHCAAAAAA,22844,Sir,Neil,Cox,N,14,12,1951,ECUADOR,Neil.Cox@FRuR2bFK.com
+40,AAAAAAAAICAAAAAA,21045,,Jacqueline,Hatfield,,26,11,1942,,gsfdfgy@gghertty.com
+41,AAAAAAAAJCAAAAAA,18316,Miss,Maxine,Carlson,N,26,6,1939,ISLE OF MAN,Maxine.Carlson@StyP5lAokmQ29QHYMLa.edu
+42,AAAAAAAAKCAAAAAA,11277,Dr.,Deborah,Burton,N,17,1,1950,COMOROS,Deborah.Burton@xt.edu
+43,AAAAAAAALCAAAAAA,43743,Mr.,William,Warner,Y,5,12,1965,GUAM,William.Warner@zegnrzurU.org
+44,AAAAAAAAMCAAAAAA,32296,Miss,Mabel,Richmond,Y,7,12,1932,CAMBODIA,Mabel.Richmond@Tkla.edu
+45,AAAAAAAANCAAAAAA,19777,,Kenneth,Hammonds,,5,1,1923,NIGER,jhkgjiftyudert@fgtqwred.com
+46,AAAAAAAAOCAAAAAA,21386,Mrs.,Jane,Stephenson,Y,13,4,1990,TURKEY,Jane.Stephenson@lq8ZQLAUMZhR.edu
+47,AAAAAAAAPCAAAAAA,38469,Mr.,Luis,Young,N,3,12,1982,BRUNEI DARUSSALAM,Luis.Young@0DmV.edu
+48,AAAAAAAAADAAAAAA,38252,Ms.,Jill,Jackson,N,15,9,1961,LUXEMBOURG,Jill.Jackson@n6I7SF.org
+49,AAAAAAAABDAAAAAA,20581,Mr.,Steven,Venable,N,13,6,1961,NETHERLANDS ANTILLES,Steven.Venable@0hA90vhfK7k9F4h.com
+50,AAAAAAAACDAAAAAA,32567,Mr.,Christopher,Eller,N,24,11,1965,AUSTRALIA,Christopher.Eller@gV5Ua7HOmt.com

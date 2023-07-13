@@ -1,0 +1,6 @@
+boto3
+awswrangler
+aws-cdk-lib
+cdk-nag
+bandit
+aws-cdk.aws-glue-alpha
