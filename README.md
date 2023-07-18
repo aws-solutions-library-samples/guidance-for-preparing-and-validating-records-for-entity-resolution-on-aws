@@ -15,7 +15,7 @@ The data preparation and validation workflow has four steps
 4. Validate
 
 For the cleanse step there are two options
-1. Use the Data Normalization Guidance available as a separate guidance in the AWS solution library as the cleanse step. Use the output of the cleanse step as the source of the workflow delivered in this guidance. 
+1. Use the [Data Normalization Guidance](https://github.com/aws-solutions-library-samples/guidance-for-customizing-normalization-library-for-aws-entity-resolution ) available as a separate guidance in the AWS solution library as the cleanse step. Use the output of the cleanse step as the source of the workflow delivered in this guidance. 
 2. Use the AWS Glue DataBrew Recipe delivered in this guidance as a template to build your own data cleanse process
 
 The workflow delivered in this guidance packages an example of how Parse, Standardize and Validate steps are done with Physical Address entity using a third party validation service [Smarty](https://www.smarty.com/products/us-address-verification). The run time code and the cloud infrastructure is delivered as code using [AWS Python Cloud Deployment Kit(CDK)](https://docs.aws.amazon.com/cdk/v2/guide/home.html).
