@@ -28,7 +28,7 @@ app = cdk.App()
 # Component sandbox stack
 av_stack = AddressValidation(
     app,
-    constants.APP_NAME + constants.SANDBOX_ENV_NAME,
+    f"{constants.APP_NAME}-{constants.SANDBOX_ENV_NAME}",
     env=cdk.Environment(
         account=os.environ["CDK_DEFAULT_ACCOUNT"],
         region=os.environ["CDK_DEFAULT_REGION"],
